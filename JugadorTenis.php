@@ -43,6 +43,7 @@ $jugador1 = new JugadorTenis("Leo", 10, "verde", "naranja", "intermedio");
 $jugador2 = new JugadorTenis("Sofi", 9, "azul", "gris", "principiante");
 $jugador3 = new JugadorTenis("Max", 11, "roja", "negra", "avanzado");
 
+
 // Imprimir 1 método del primer objeto
 echo $jugador1->golpearPelota();
 ?>
